@@ -1,0 +1,1 @@
+# Ejemplo de contenidos para el repositorio local y remoto colab-02.
