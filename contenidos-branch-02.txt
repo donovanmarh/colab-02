@@ -1,0 +1,1 @@
+# Cambios para comprobar la actualización y establecimiento de nuevos contenidos en una rama externa a la master
